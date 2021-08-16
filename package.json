@@ -1,6 +1,6 @@
 {
   "name": "@onekeyhq/test-dapp",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A simple dapp used in OneKey extension wallet e2e tests.",
   "engines": {
     "node": ">= 12.0.0"
