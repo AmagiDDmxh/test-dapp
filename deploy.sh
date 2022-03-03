@@ -3,8 +3,8 @@
 set -u
 set -o pipefail
 
-GH_REMOTE="origin"
-SOURCE_BRANCH="main"
+GH_REMOTE="amagi"
+SOURCE_BRANCH="amagi"
 DEPLOY_BRANCH="gh-pages"
 readonly WEBSITE_DIR_PATH="dist"
 
